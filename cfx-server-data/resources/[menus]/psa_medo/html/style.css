@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Heebo;
+    src: url(Heebo-Bold.ttf);
+  }
+  
+  * {
+    font-family: 'Heebo';
+    font-size: 20px;
+  }
+
